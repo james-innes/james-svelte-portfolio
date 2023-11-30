@@ -1,0 +1,38 @@
+:root {
+  --orange: #f38068;
+
+  --thick: 1px;
+  --radius: 0.6rem;
+
+  --background: #faefee;
+  --opaque: 255, 255, 255;
+  --image-shadow: 0 7px 15px rgba(0, 0, 0, 0.2);
+
+  color: var(--text);
+  --text: #393953;
+  --label: #393953;
+  --subtext: #717171;
+  --placeholder: #a9a9a9;
+  --grey: #c7c1c1;
+
+  --anchor: #ff746d;
+  --anchor-highlight: black;
+
+  --input-border: #c7c1c1;
+  --input-background: #fef4f4;
+  --input-highlight: var(--orange);
+
+  --control-text: var(--text);
+  --control-text-highlight: black;
+  --control-background: #b2d5d9;
+  --control-background-highlight: #abd0d5;
+  --control-height: 2.3rem;
+
+  --bold-text: white;
+  --bold-background: var(--orange);
+  --pink: #393953;
+
+  --green: #6d9a66;
+  --amber: #f7c777;
+  --red: #c13e3e;
+}

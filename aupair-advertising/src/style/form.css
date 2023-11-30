@@ -1,0 +1,113 @@
+label,
+[role="group"] {
+	font-size: medium;
+	font-weight: 400;
+	color: var(--label);
+	display: flex;
+	flex-direction: column;
+	row-gap: 0.3rem;
+}
+
+[role="group"] {
+	row-gap: 0.5rem;
+}
+
+label {
+	width: fit-content;
+}
+
+label > small:not(.suffix, .prefix) {
+	margin-left: 0.5rem;
+}
+
+input,
+select,
+textarea,
+label:has(> input[type="file"]),
+label:has(.prefix, .suffix) {
+	box-sizing: border-box;
+	appearance: none;
+	background: var(--input-background);
+	border: var(--thick) solid var(--input-border);
+	border-radius: var(--radius);
+}
+
+input,
+label:has(.prefix, .suffix),
+select {
+	height: var(--control-height);
+	width: fit-content;
+	max-width: 100%;
+	vertical-align: middle;
+	display: flex;
+	padding: 0 1rem;
+	margin: 0;
+	color: inherit;
+	font-weight: 400;
+}
+
+label:has(.prefix, .suffix) {
+	flex-direction: row;
+	align-items: center;
+	gap: 0.3rem;
+	padding: 0 1rem;
+}
+
+label:has(.prefix, .suffix) > input {
+	border: none;
+	height: unset;
+	padding: 0;
+	margin: 0;
+	border-radius: 0;
+}
+
+select {
+	cursor: pointer;
+}
+
+textarea {
+	font-weight: 400;
+	padding: 0.7rem;
+	width: 100%;
+	max-width: 100%;
+	font-size: 100%;
+}
+
+textarea::-webkit-resizer {
+	border-width: 0.5rem;
+	border-radius: 0 0 0.5rem 0;
+	border-style: solid;
+	border-color: transparent var(--control-background) var(--control-background)
+		transparent;
+}
+
+label:has(> input[type="file"]) {
+	width: 100%;
+	height: 7rem;
+	place-items: center;
+	justify-content: space-evenly;
+	border-style: dashed;
+}
+
+::placeholder {
+	color: var(--placeholder);
+	font-weight: inherit;
+}
+
+input[type="file"],
+::file-selector-button {
+	display: none;
+}
+
+label:hover:has(> input[type="file"]),
+:where(select, textarea):focus,
+label:not(:has(.prefix, .suffix)) > input:focus,
+label:has(.prefix, .suffix):focus-within {
+	border-color: var(--input-highlight);
+	box-shadow: 0 0 0 1px var(--input-highlight);
+	border-style: solid;
+}
+
+select:hover {
+	color: var(--control-text);
+}

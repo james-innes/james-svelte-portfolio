@@ -1,0 +1,34 @@
+[data-theme="dark"] {
+	--background: black;
+	--opaque: 0, 0, 0;
+
+	color: var(--text);
+	--text: #f3f3f4;
+	--label: #dddfe2;
+	--subtext: #c0c0cf;
+	--placeholder: #999898;
+	--grey: #1c1f21;
+
+	--anchor: var(--text);
+	--anchor-highlight: white;
+
+	--input-border: #333333;
+	--input-background: black;
+	--input-highlight: var(--text);
+
+	--control-text: var(--text);
+	--control-text-highlight: white;
+	--control-background: black;
+	--control-background-highlight: #232021;
+	--control-height: 2.2rem;
+
+	--bold-text: #ef68a1;
+	--bold-background: #280615;
+	--pink: #ea4c89;
+}
+
+@media (prefers-color-scheme: dark) {
+	[data-theme="dark"] {
+		--background: black;
+	}
+}

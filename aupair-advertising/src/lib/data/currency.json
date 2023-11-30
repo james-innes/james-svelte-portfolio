@@ -1,0 +1,1486 @@
+[
+	{
+		"isoCurrencyCode": "AED",
+		"isoCountryCode": "AE",
+		"flagEmoji": "🇦🇪",
+		"name": "United Arab Emirates dirham",
+		"symbol": "AED",
+		"nativeName": "درهم إماراتي",
+		"exchangeRate": 3.67305
+	},
+	{
+		"isoCurrencyCode": "AFN",
+		"isoCountryCode": "AF",
+		"flagEmoji": "🇦🇫",
+		"name": "Afghan afghani",
+		"symbol": "؋",
+		"nativeName": "افغانی",
+		"exchangeRate": 87.999997
+	},
+	{
+		"isoCurrencyCode": "ALL",
+		"isoCountryCode": "AL",
+		"flagEmoji": "🇦🇱",
+		"name": "Albanian lek",
+		"symbol": "L",
+		"nativeName": "Leku Shqiptar",
+		"exchangeRate": 110.85
+	},
+	{
+		"isoCurrencyCode": "AMD",
+		"isoCountryCode": "AM",
+		"flagEmoji": "🇦🇲",
+		"name": "Armenian dram",
+		"symbol": "AMD",
+		"nativeName": "Հայկական դրամ",
+		"exchangeRate": 393.704437
+	},
+	{
+		"isoCurrencyCode": "ANG",
+		"isoCountryCode": "CW",
+		"flagEmoji": "🇨🇼",
+		"name": "Netherlands Antillean guilder",
+		"symbol": "ƒ",
+		"nativeName": "Nederlands-Antilliaanse gulden",
+		"exchangeRate": 1.801866
+	},
+	{
+		"isoCurrencyCode": "AOA",
+		"isoCountryCode": "AO",
+		"flagEmoji": "🇦🇴",
+		"name": "Angolan kwanza",
+		"symbol": "AOA",
+		"nativeName": "Kwanza angolano",
+		"exchangeRate": 503.7896
+	},
+	{
+		"isoCurrencyCode": "ARS",
+		"isoCountryCode": "AR",
+		"flagEmoji": "🇦🇷",
+		"name": "Argentine peso",
+		"symbol": "$",
+		"nativeName": "Peso argentino",
+		"exchangeRate": 180.113359
+	},
+	{
+		"isoCurrencyCode": "AUD",
+		"isoCountryCode": "AU",
+		"flagEmoji": "🇦🇺",
+		"name": "Australian dollar",
+		"symbol": "$",
+		"nativeName": "Australian dollar",
+		"exchangeRate": 1.441558
+	},
+	{
+		"isoCurrencyCode": "AWG",
+		"isoCountryCode": "AW",
+		"flagEmoji": "🇦🇼",
+		"name": "Aruban florin",
+		"symbol": "ƒ",
+		"nativeName": "Arubaanse gulden",
+		"exchangeRate": 1.8
+	},
+	{
+		"isoCurrencyCode": "AZN",
+		"isoCountryCode": "AZ",
+		"flagEmoji": "🇦🇿",
+		"name": "Azerbaijani manat",
+		"symbol": "₼",
+		"nativeName": "Azərbaycan manatı",
+		"exchangeRate": 1.7
+	},
+	{
+		"isoCurrencyCode": "BAM",
+		"isoCountryCode": "BA",
+		"flagEmoji": "🇧🇦",
+		"name": "Bosnia and Herzegovina convertible mark",
+		"symbol": "KM",
+		"nativeName": "Konvertibilna marka Bosne i Hercegovine",
+		"exchangeRate": 1.830094
+	},
+	{
+		"isoCurrencyCode": "BBD",
+		"isoCountryCode": "BB",
+		"flagEmoji": "🇧🇧",
+		"name": "Barbados dollar",
+		"symbol": "$",
+		"nativeName": "Barbadian dollar",
+		"exchangeRate": 2
+	},
+	{
+		"isoCurrencyCode": "BDT",
+		"isoCountryCode": "BD",
+		"flagEmoji": "🇧🇩",
+		"name": "Bangladeshi taka",
+		"symbol": "BDT",
+		"nativeName": "বাংলাদেশী টাকা",
+		"exchangeRate": 104.6775
+	},
+	{
+		"isoCurrencyCode": "BGN",
+		"isoCountryCode": "BG",
+		"flagEmoji": "🇧🇬",
+		"name": "Bulgarian lev",
+		"symbol": "лв",
+		"nativeName": "Български лев",
+		"exchangeRate": 1.820542
+	},
+	{
+		"isoCurrencyCode": "BIF",
+		"isoCountryCode": "BI",
+		"flagEmoji": "🇧🇮",
+		"name": "Burundian franc",
+		"symbol": "BIF",
+		"nativeName": "Franc burundais",
+		"exchangeRate": 2062
+	},
+	{
+		"isoCurrencyCode": "BMD",
+		"isoCountryCode": "BM",
+		"flagEmoji": "🇧🇲",
+		"name": "Bermudian dollar (customarily known as Bermuda dollar)",
+		"symbol": "$",
+		"nativeName": "Bermudian dollar",
+		"exchangeRate": 1
+	},
+	{
+		"isoCurrencyCode": "BND",
+		"isoCountryCode": "BN",
+		"flagEmoji": "🇧🇳",
+		"name": "Brunei dollar",
+		"symbol": "$",
+		"nativeName": "Dolar Brunei",
+		"exchangeRate": 1.332778
+	},
+	{
+		"isoCurrencyCode": "BOB",
+		"isoCountryCode": "BO",
+		"flagEmoji": "🇧🇴",
+		"name": "Boliviano",
+		"symbol": "Bs.",
+		"nativeName": "Boliviano",
+		"exchangeRate": 6.908397
+	},
+	{
+		"isoCurrencyCode": "BRL",
+		"isoCountryCode": "BR",
+		"flagEmoji": "🇧🇷",
+		"name": "Brazilian real",
+		"symbol": "R$",
+		"nativeName": "Real brasileiro",
+		"exchangeRate": 5.2523
+	},
+	{
+		"isoCurrencyCode": "BSD",
+		"isoCountryCode": "BS",
+		"flagEmoji": "🇧🇸",
+		"name": "Bahamian dollar",
+		"symbol": "$",
+		"nativeName": "Bahamian dollar",
+		"exchangeRate": 1
+	},
+	{
+		"isoCurrencyCode": "BWP",
+		"isoCountryCode": "BW",
+		"flagEmoji": "🇧🇼",
+		"name": "Botswana pula",
+		"symbol": "P",
+		"nativeName": "Pula",
+		"exchangeRate": 12.768675
+	},
+	{
+		"isoCurrencyCode": "BYN",
+		"isoCountryCode": "BY",
+		"flagEmoji": "🇧🇾",
+		"name": "Belarusian ruble",
+		"symbol": "Br",
+		"nativeName": "Беларуский рубль",
+		"exchangeRate": 2.523989
+	},
+	{
+		"isoCurrencyCode": "BZD",
+		"isoCountryCode": "BZ",
+		"flagEmoji": "🇧🇿",
+		"name": "Belize dollar",
+		"symbol": "BZ$",
+		"nativeName": "Belize dollar",
+		"exchangeRate": 2.01528
+	},
+	{
+		"isoCurrencyCode": "CAD",
+		"isoCountryCode": "CA",
+		"flagEmoji": "🇨🇦",
+		"name": "Canadian dollar",
+		"symbol": "$",
+		"nativeName": "Dollar canadien",
+		"exchangeRate": 1.336862
+	},
+	{
+		"isoCurrencyCode": "CDF",
+		"isoCountryCode": "CD",
+		"flagEmoji": "🇨🇩",
+		"name": "Congolese franc",
+		"symbol": "CDF",
+		"nativeName": "Franc congolais",
+		"exchangeRate": 2027
+	},
+	{
+		"isoCurrencyCode": "CHF",
+		"isoCountryCode": "LI",
+		"flagEmoji": "🇨🇭",
+		"name": "Swiss franc",
+		"symbol": "CHF",
+		"nativeName": "Schweizer Franken",
+		"exchangeRate": 0.919629
+	},
+	{
+		"isoCurrencyCode": "CLP",
+		"isoCountryCode": "CL",
+		"flagEmoji": "🇨🇱",
+		"name": "Chilean peso",
+		"symbol": "$",
+		"nativeName": "Peso chileno",
+		"exchangeRate": 837.05
+	},
+	{
+		"isoCurrencyCode": "CNY",
+		"isoCountryCode": "CN",
+		"flagEmoji": "🇨🇳",
+		"name": "Chinese yuan",
+		"symbol": "¥",
+		"nativeName": "人民币",
+		"exchangeRate": 6.7725
+	},
+	{
+		"isoCurrencyCode": "COP",
+		"isoCountryCode": "CO",
+		"flagEmoji": "🇨🇴",
+		"name": "Colombian peso",
+		"symbol": "$",
+		"nativeName": "Peso colombiano",
+		"exchangeRate": 4830.083042
+	},
+	{
+		"isoCurrencyCode": "CRC",
+		"isoCountryCode": "CR",
+		"flagEmoji": "🇨🇷",
+		"name": "Costa Rican colon",
+		"symbol": "₡",
+		"nativeName": "Colón costarricense",
+		"exchangeRate": 589.640702
+	},
+	{
+		"isoCurrencyCode": "CVE",
+		"isoCountryCode": "CV",
+		"flagEmoji": "🇨🇻",
+		"name": "Cape Verde escudo",
+		"symbol": "CVE",
+		"nativeName": "Escudo cabo-verdiano",
+		"exchangeRate": 103.17724
+	},
+	{
+		"isoCurrencyCode": "CZK",
+		"isoCountryCode": "CZ",
+		"flagEmoji": "🇨🇿",
+		"name": "Czech koruna",
+		"symbol": "Kč",
+		"nativeName": "Česká koruna",
+		"exchangeRate": 22.3165
+	},
+	{
+		"isoCurrencyCode": "DJF",
+		"isoCountryCode": "DJ",
+		"flagEmoji": "🇩🇯",
+		"name": "Djiboutian franc",
+		"symbol": "DJF",
+		"nativeName": "Franc djiboutien",
+		"exchangeRate": 175
+	},
+	{
+		"isoCurrencyCode": "DKK",
+		"isoCountryCode": "DK",
+		"flagEmoji": "🇩🇰",
+		"name": "Danish krone",
+		"symbol": "kr",
+		"nativeName": "Dansk krone",
+		"exchangeRate": 6.918475
+	},
+	{
+		"isoCurrencyCode": "DOP",
+		"isoCountryCode": "DO",
+		"flagEmoji": "🇩🇴",
+		"name": "Dominican peso",
+		"symbol": "RD$",
+		"nativeName": "Peso dominicano",
+		"exchangeRate": 56.6
+	},
+	{
+		"isoCurrencyCode": "DZD",
+		"isoCountryCode": "DZ",
+		"flagEmoji": "🇩🇿",
+		"name": "Algerian dinar",
+		"symbol": "DZD",
+		"nativeName": "Dinar algérien",
+		"exchangeRate": 136.884382
+	},
+	{
+		"isoCurrencyCode": "EGP",
+		"isoCountryCode": "EG",
+		"flagEmoji": "🇪🇬",
+		"name": "Egyptian pound",
+		"symbol": "£",
+		"nativeName": "جنيه مصرى",
+		"exchangeRate": 27.6228
+	},
+	{
+		"isoCurrencyCode": "ETB",
+		"isoCountryCode": "ET",
+		"flagEmoji": "🇪🇹",
+		"name": "Ethiopian birr",
+		"symbol": "ETB",
+		"nativeName": "ብር",
+		"exchangeRate": 53.8
+	},
+	{
+		"isoCurrencyCode": "EUR",
+		"isoCountryCode": "AD",
+		"flagEmoji": "🇪🇺",
+		"name": "Euro",
+		"symbol": "€",
+		"nativeName": "Euro",
+		"exchangeRate": 0.930189
+	},
+	{
+		"isoCurrencyCode": "FJD",
+		"isoCountryCode": "FJ",
+		"flagEmoji": "🇫🇯",
+		"name": "Fiji dollar",
+		"symbol": "$",
+		"nativeName": "Dola ni Viti",
+		"exchangeRate": 2.17725
+	},
+	{
+		"isoCurrencyCode": "FKP",
+		"isoCountryCode": "FK",
+		"flagEmoji": "🇫🇰",
+		"name": "Falkland Islands pound",
+		"symbol": "£",
+		"nativeName": "Falkland Islands pound",
+		"exchangeRate": 0.820045
+	},
+	{
+		"isoCurrencyCode": "GBP",
+		"isoCountryCode": "GS",
+		"flagEmoji": "🇬🇧",
+		"name": "Pound sterling",
+		"symbol": "£",
+		"nativeName": "Pound sterling",
+		"exchangeRate": 0.820045
+	},
+	{
+		"isoCurrencyCode": "GEL",
+		"isoCountryCode": "GE",
+		"flagEmoji": "🇬🇪",
+		"name": "Georgian lari",
+		"symbol": "GEL",
+		"nativeName": "ლარი",
+		"exchangeRate": 2.685
+	},
+	{
+		"isoCurrencyCode": "GIP",
+		"isoCountryCode": "GI",
+		"flagEmoji": "🇬🇮",
+		"name": "Gibraltar pound",
+		"symbol": "£",
+		"nativeName": "Gibraltar pound",
+		"exchangeRate": 0.820045
+	},
+	{
+		"isoCurrencyCode": "GMD",
+		"isoCountryCode": "GM",
+		"flagEmoji": "🇬🇲",
+		"name": "Gambian dalasi",
+		"symbol": "GMD",
+		"nativeName": "Dalasi",
+		"exchangeRate": 62
+	},
+	{
+		"isoCurrencyCode": "GNF",
+		"isoCountryCode": "GN",
+		"flagEmoji": "🇬🇳",
+		"name": "Guinean franc",
+		"symbol": "GNF",
+		"nativeName": "Franc guinéen",
+		"exchangeRate": 8770
+	},
+	{
+		"isoCurrencyCode": "GTQ",
+		"isoCountryCode": "GT",
+		"flagEmoji": "🇬🇹",
+		"name": "Guatemalan quetzal",
+		"symbol": "Q",
+		"nativeName": "Quetzal",
+		"exchangeRate": 7.8433
+	},
+	{
+		"isoCurrencyCode": "GYD",
+		"isoCountryCode": "GY",
+		"flagEmoji": "🇬🇾",
+		"name": "Guyanese dollar",
+		"symbol": "$",
+		"nativeName": "Guyanese dollar",
+		"exchangeRate": 209.285209
+	},
+	{
+		"isoCurrencyCode": "HKD",
+		"isoCountryCode": "HK",
+		"flagEmoji": "🇭🇰",
+		"name": "Hong Kong dollar",
+		"symbol": "$",
+		"nativeName": "港幣",
+		"exchangeRate": 7.80483
+	},
+	{
+		"isoCurrencyCode": "HNL",
+		"isoCountryCode": "HN",
+		"flagEmoji": "🇭🇳",
+		"name": "Honduran lempira",
+		"symbol": "L",
+		"nativeName": "Lempira",
+		"exchangeRate": 24.65
+	},
+	{
+		"isoCurrencyCode": "HRK",
+		"isoCountryCode": "HR",
+		"flagEmoji": "🇭🇷",
+		"name": "Croatian kuna",
+		"symbol": "kn",
+		"nativeName": "Hrvatska kuna",
+		"exchangeRate": 7.00933
+	},
+	{
+		"isoCurrencyCode": "HTG",
+		"isoCountryCode": "HT",
+		"flagEmoji": "🇭🇹",
+		"name": "Haitian gourde",
+		"symbol": "HTG",
+		"nativeName": "Gourde",
+		"exchangeRate": 148.96835
+	},
+	{
+		"isoCurrencyCode": "HUF",
+		"isoCountryCode": "HU",
+		"flagEmoji": "🇭🇺",
+		"name": "Hungarian forint",
+		"symbol": "Ft",
+		"nativeName": "Forint",
+		"exchangeRate": 368.851676
+	},
+	{
+		"isoCurrencyCode": "IDR",
+		"isoCountryCode": "ID",
+		"flagEmoji": "🇮🇩",
+		"name": "Indonesian rupiah",
+		"symbol": "Rp",
+		"nativeName": "Rupiah",
+		"exchangeRate": 15567.05
+	},
+	{
+		"isoCurrencyCode": "ILS",
+		"isoCountryCode": "IL",
+		"flagEmoji": "🇮🇱",
+		"name": "Israeli new shekel",
+		"symbol": "₪",
+		"nativeName": "שקל חדש",
+		"exchangeRate": 3.47025
+	},
+	{
+		"isoCurrencyCode": "INR",
+		"isoCountryCode": "IN",
+		"flagEmoji": "🇮🇳",
+		"name": "Indian rupee",
+		"symbol": "₹",
+		"nativeName": "रुपया",
+		"exchangeRate": 82.131204
+	},
+	{
+		"isoCurrencyCode": "ISK",
+		"isoCountryCode": "IS",
+		"flagEmoji": "🇮🇸",
+		"name": "Icelandic króna",
+		"symbol": "kr",
+		"nativeName": "Íslensk króna",
+		"exchangeRate": 143.73
+	},
+	{
+		"isoCurrencyCode": "JMD",
+		"isoCountryCode": "JM",
+		"flagEmoji": "🇯🇲",
+		"name": "Jamaican dollar",
+		"symbol": "J$",
+		"nativeName": "Jamaican dollar",
+		"exchangeRate": 152.417468
+	},
+	{
+		"isoCurrencyCode": "JPY",
+		"isoCountryCode": "JP",
+		"flagEmoji": "🇯🇵",
+		"name": "Japanese yen",
+		"symbol": "¥",
+		"nativeName": "円",
+		"exchangeRate": 131.76277778
+	},
+	{
+		"isoCurrencyCode": "KES",
+		"isoCountryCode": "KE",
+		"flagEmoji": "🇰🇪",
+		"name": "Kenyan shilling",
+		"symbol": "KSh",
+		"nativeName": "Kenyan shilling",
+		"exchangeRate": 123.7
+	},
+	{
+		"isoCurrencyCode": "KGS",
+		"isoCountryCode": "KG",
+		"flagEmoji": "🇰🇬",
+		"name": "Kyrgyzstani som",
+		"symbol": "лв",
+		"nativeName": "Сом",
+		"exchangeRate": 85.68
+	},
+	{
+		"isoCurrencyCode": "KHR",
+		"isoCountryCode": "KH",
+		"flagEmoji": "🇰🇭",
+		"name": "Cambodian riel",
+		"symbol": "៛",
+		"nativeName": "រៀល",
+		"exchangeRate": 4118
+	},
+	{
+		"isoCurrencyCode": "KMF",
+		"isoCountryCode": "KM",
+		"flagEmoji": "🇰🇲",
+		"name": "Comoro franc",
+		"symbol": "KMF",
+		"nativeName": "Franc comorien",
+		"exchangeRate": 462.95027
+	},
+	{
+		"isoCurrencyCode": "KRW",
+		"isoCountryCode": "KR",
+		"flagEmoji": "🇰🇷",
+		"name": "South Korean won",
+		"symbol": "₩",
+		"nativeName": "원",
+		"exchangeRate": 1236.621057
+	},
+	{
+		"isoCurrencyCode": "KYD",
+		"isoCountryCode": "KY",
+		"flagEmoji": "🇰🇾",
+		"name": "Cayman Islands dollar",
+		"symbol": "$",
+		"nativeName": "Cayman Islands dollar",
+		"exchangeRate": 0.833092
+	},
+	{
+		"isoCurrencyCode": "KZT",
+		"isoCountryCode": "KZ",
+		"flagEmoji": "🇰🇿",
+		"name": "Kazakhstani tenge",
+		"symbol": "лв",
+		"nativeName": "Теңге",
+		"exchangeRate": 462.545373
+	},
+	{
+		"isoCurrencyCode": "LAK",
+		"isoCountryCode": "LA",
+		"flagEmoji": "🇱🇦",
+		"name": "Lao kip",
+		"symbol": "₭",
+		"nativeName": "ກີບ",
+		"exchangeRate": 17185
+	},
+	{
+		"isoCurrencyCode": "LBP",
+		"isoCountryCode": "LB",
+		"flagEmoji": "🇱🇧",
+		"name": "Lebanese pound",
+		"symbol": "£",
+		"nativeName": "ليرة لبنانية",
+		"exchangeRate": 1521.5
+	},
+	{
+		"isoCurrencyCode": "LKR",
+		"isoCountryCode": "LK",
+		"flagEmoji": "🇱🇰",
+		"name": "Sri Lankan rupee",
+		"symbol": "₨",
+		"nativeName": "රුපියල්",
+		"exchangeRate": 367.420982
+	},
+	{
+		"isoCurrencyCode": "LRD",
+		"isoCountryCode": "LR",
+		"flagEmoji": "🇱🇷",
+		"name": "Liberian dollar",
+		"symbol": "$",
+		"nativeName": "Liberian dollar",
+		"exchangeRate": 154.5
+	},
+	{
+		"isoCurrencyCode": "LSL",
+		"isoCountryCode": "LS",
+		"flagEmoji": "🇱🇸",
+		"name": "Lesotho loti",
+		"symbol": "LSL",
+		"nativeName": "Loti",
+		"exchangeRate": 17.13
+	},
+	{
+		"isoCurrencyCode": "MAD",
+		"isoCountryCode": "MA",
+		"flagEmoji": "🇲🇦",
+		"name": "Moroccan dirham",
+		"symbol": "MAD",
+		"nativeName": "درهم مغربي",
+		"exchangeRate": 10.336
+	},
+	{
+		"isoCurrencyCode": "MDL",
+		"isoCountryCode": "MD",
+		"flagEmoji": "🇲🇩",
+		"name": "Moldovan leu",
+		"symbol": "MDL",
+		"nativeName": "Leu moldovenesc",
+		"exchangeRate": 19.160844
+	},
+	{
+		"isoCurrencyCode": "MGA",
+		"isoCountryCode": "MG",
+		"flagEmoji": "🇲🇬",
+		"name": "Malagasy ariary",
+		"symbol": "MGA",
+		"nativeName": "Ariary",
+		"exchangeRate": 4510
+	},
+	{
+		"isoCurrencyCode": "MKD",
+		"isoCountryCode": "MK",
+		"flagEmoji": "🇲🇰",
+		"name": "Macedonian denar",
+		"symbol": "ден",
+		"nativeName": "Денар",
+		"exchangeRate": 57.569677
+	},
+	{
+		"isoCurrencyCode": "MMK",
+		"isoCountryCode": "MM",
+		"flagEmoji": "🇲🇲",
+		"name": "Myanma kyat",
+		"symbol": "MMK",
+		"nativeName": "ကျပ်",
+		"exchangeRate": 2099.545429
+	},
+	{
+		"isoCurrencyCode": "MNT",
+		"isoCountryCode": "MN",
+		"flagEmoji": "🇲🇳",
+		"name": "Mongolian tugrik",
+		"symbol": "₮",
+		"nativeName": "Төгрөг",
+		"exchangeRate": 3406.965265
+	},
+	{
+		"isoCurrencyCode": "MOP",
+		"isoCountryCode": "MO",
+		"flagEmoji": "🇲🇴",
+		"name": "Macanese pataca",
+		"symbol": "MOP",
+		"nativeName": "Pataca",
+		"exchangeRate": 8.039058
+	},
+	{
+		"isoCurrencyCode": "MRO",
+		"isoCountryCode": "MR",
+		"flagEmoji": "🇲🇷",
+		"name": "Mauritanian ouguiya",
+		"symbol": "MRO",
+		"nativeName": "Ouguiya"
+	},
+	{
+		"isoCurrencyCode": "MUR",
+		"isoCountryCode": "MU",
+		"flagEmoji": "🇲🇺",
+		"name": "Mauritian rupee",
+		"symbol": "₨",
+		"nativeName": "Roupie mauricienne",
+		"exchangeRate": 43.697385
+	},
+	{
+		"isoCurrencyCode": "MVR",
+		"isoCountryCode": "MV",
+		"flagEmoji": "🇲🇻",
+		"name": "Maldivian rufiyaa",
+		"symbol": "MVR",
+		"nativeName": "ރުފިޔާ",
+		"exchangeRate": 15.4
+	},
+	{
+		"isoCurrencyCode": "MWK",
+		"isoCountryCode": "MW",
+		"flagEmoji": "🇲🇼",
+		"name": "Malawian kwacha",
+		"symbol": "MWK",
+		"nativeName": "Kwacha",
+		"exchangeRate": 1025
+	},
+	{
+		"isoCurrencyCode": "MXN",
+		"isoCountryCode": "MX",
+		"flagEmoji": "🇲🇽",
+		"name": "Mexican peso",
+		"symbol": "$",
+		"nativeName": "Peso",
+		"exchangeRate": 19.15451
+	},
+	{
+		"isoCurrencyCode": "MYR",
+		"isoCountryCode": "MY",
+		"flagEmoji": "🇲🇾",
+		"name": "Malaysian ringgit",
+		"symbol": "RM",
+		"nativeName": "Ringgit",
+		"exchangeRate": 4.3755
+	},
+	{
+		"isoCurrencyCode": "MZN",
+		"isoCountryCode": "MZ",
+		"flagEmoji": "🇲🇿",
+		"name": "Mozambican metical",
+		"symbol": "MT",
+		"nativeName": "Metical",
+		"exchangeRate": 63.85
+	},
+	{
+		"isoCurrencyCode": "NAD",
+		"isoCountryCode": "NA",
+		"flagEmoji": "🇳🇦",
+		"name": "Namibian dollar",
+		"symbol": "$",
+		"nativeName": "Namibian dollar",
+		"exchangeRate": 17.13
+	},
+	{
+		"isoCurrencyCode": "NGN",
+		"isoCountryCode": "NG",
+		"flagEmoji": "🇳🇬",
+		"name": "Nigerian naira",
+		"symbol": "₦",
+		"nativeName": "Naira",
+		"exchangeRate": 450.05
+	},
+	{
+		"isoCurrencyCode": "NIO",
+		"isoCountryCode": "NI",
+		"flagEmoji": "🇳🇮",
+		"name": "Nicaraguan córdoba",
+		"symbol": "C$",
+		"nativeName": "Córdoba",
+		"exchangeRate": 36.4
+	},
+	{
+		"isoCurrencyCode": "NOK",
+		"isoCountryCode": "BV",
+		"flagEmoji": "🇳🇴",
+		"name": "Norwegian krone",
+		"symbol": "kr",
+		"nativeName": "Krone",
+		"exchangeRate": 9.880138
+	},
+	{
+		"isoCurrencyCode": "NPR",
+		"isoCountryCode": "NP",
+		"flagEmoji": "🇳🇵",
+		"name": "Nepalese rupee",
+		"symbol": "₨",
+		"nativeName": "रूपैयाँ",
+		"exchangeRate": 131.770313
+	},
+	{
+		"isoCurrencyCode": "NZD",
+		"isoCountryCode": "CK",
+		"flagEmoji": "🇳🇿",
+		"name": "New Zealand dollar",
+		"symbol": "$",
+		"nativeName": "New Zealand dollar",
+		"exchangeRate": 1.565288
+	},
+	{
+		"isoCurrencyCode": "PAB",
+		"isoCountryCode": "PA",
+		"flagEmoji": "🇵🇦",
+		"name": "Panamanian balboa",
+		"symbol": "B/.",
+		"nativeName": "Balboa",
+		"exchangeRate": 1
+	},
+	{
+		"isoCurrencyCode": "PEN",
+		"isoCountryCode": "PE",
+		"flagEmoji": "🇵🇪",
+		"name": "Peruvian nuevo sol",
+		"symbol": "S/.",
+		"nativeName": "Sol",
+		"exchangeRate": 3.7925
+	},
+	{
+		"isoCurrencyCode": "PGK",
+		"isoCountryCode": "PG",
+		"flagEmoji": "🇵🇬",
+		"name": "Papua New Guinean kina",
+		"symbol": "PGK",
+		"nativeName": "Kina",
+		"exchangeRate": 3.52
+	},
+	{
+		"isoCurrencyCode": "PHP",
+		"isoCountryCode": "PH",
+		"flagEmoji": "🇵🇭",
+		"name": "Philippine peso",
+		"symbol": "₱",
+		"nativeName": "Piso",
+		"exchangeRate": 54.740495
+	},
+	{
+		"isoCurrencyCode": "PKR",
+		"isoCountryCode": "PK",
+		"flagEmoji": "🇵🇰",
+		"name": "Pakistani rupee",
+		"symbol": "₨",
+		"nativeName": "روپیہ",
+		"exchangeRate": 227.6
+	},
+	{
+		"isoCurrencyCode": "PLN",
+		"isoCountryCode": "PL",
+		"flagEmoji": "🇵🇱",
+		"name": "Polish złoty",
+		"symbol": "zł",
+		"nativeName": "Złoty",
+		"exchangeRate": 4.366591
+	},
+	{
+		"isoCurrencyCode": "PYG",
+		"isoCountryCode": "PY",
+		"flagEmoji": "🇵🇾",
+		"name": "Paraguayan guaraní",
+		"symbol": "Gs",
+		"nativeName": "Guaraní",
+		"exchangeRate": 7325.39622
+	},
+	{
+		"isoCurrencyCode": "QAR",
+		"isoCountryCode": "QA",
+		"flagEmoji": "🇶🇦",
+		"name": "Qatari riyal",
+		"symbol": "﷼",
+		"nativeName": "ريال قطري",
+		"exchangeRate": 3.641
+	},
+	{
+		"isoCurrencyCode": "RON",
+		"isoCountryCode": "RO",
+		"flagEmoji": "🇷🇴",
+		"name": "Romanian new leu",
+		"symbol": "lei",
+		"nativeName": "Leu românesc",
+		"exchangeRate": 4.5822
+	},
+	{
+		"isoCurrencyCode": "RSD",
+		"isoCountryCode": "RS",
+		"flagEmoji": "🇷🇸",
+		"name": "Serbian dinar",
+		"symbol": "Дин.",
+		"nativeName": "Српски динар",
+		"exchangeRate": 109.160594
+	},
+	{
+		"isoCurrencyCode": "RUB",
+		"isoCountryCode": "RU",
+		"flagEmoji": "🇷🇺",
+		"name": "Russian rouble",
+		"symbol": "₽",
+		"nativeName": "Российский рубль",
+		"exchangeRate": 69.909997
+	},
+	{
+		"isoCurrencyCode": "RWF",
+		"isoCountryCode": "RW",
+		"flagEmoji": "🇷🇼",
+		"name": "Rwandan franc",
+		"symbol": "RWF",
+		"nativeName": "Franc rwandais",
+		"exchangeRate": 1073
+	},
+	{
+		"isoCurrencyCode": "SAR",
+		"isoCountryCode": "SA",
+		"flagEmoji": "🇸🇦",
+		"name": "Saudi riyal",
+		"symbol": "﷼",
+		"nativeName": "ريال سعودي",
+		"exchangeRate": 3.756423
+	},
+	{
+		"isoCurrencyCode": "SBD",
+		"isoCountryCode": "SB",
+		"flagEmoji": "🇸🇧",
+		"name": "Solomon Islands dollar",
+		"symbol": "$",
+		"nativeName": "Solomon Islands dollar",
+		"exchangeRate": 8.292016
+	},
+	{
+		"isoCurrencyCode": "SCR",
+		"isoCountryCode": "SC",
+		"flagEmoji": "🇸🇨",
+		"name": "Seychelles rupee",
+		"symbol": "₨",
+		"nativeName": "Roupi",
+		"exchangeRate": 13.563802
+	},
+	{
+		"isoCurrencyCode": "SEK",
+		"isoCountryCode": "SE",
+		"flagEmoji": "🇸🇪",
+		"name": "Swedish krona/kronor",
+		"symbol": "kr",
+		"nativeName": "Svensk krona",
+		"exchangeRate": 10.37415
+	},
+	{
+		"isoCurrencyCode": "SGD",
+		"isoCountryCode": "SG",
+		"flagEmoji": "🇸🇬",
+		"name": "Singapore dollar",
+		"symbol": "$",
+		"nativeName": "Singapore dollar",
+		"exchangeRate": 1.32868
+	},
+	{
+		"isoCurrencyCode": "SHP",
+		"isoCountryCode": "SH",
+		"flagEmoji": "🇸🇭",
+		"name": "Saint Helena pound",
+		"symbol": "£",
+		"nativeName": "Saint Helena pound",
+		"exchangeRate": 0.820045
+	},
+	{
+		"isoCurrencyCode": "SLL",
+		"isoCountryCode": "SL",
+		"flagEmoji": "🇸🇱",
+		"name": "Sierra Leonean leone",
+		"symbol": "SLL",
+		"nativeName": "Leone",
+		"exchangeRate": 17665
+	},
+	{
+		"isoCurrencyCode": "SOS",
+		"isoCountryCode": "SO",
+		"flagEmoji": "🇸🇴",
+		"name": "Somali shilling",
+		"symbol": "S",
+		"nativeName": "Shilin Soomaali",
+		"exchangeRate": 568.5
+	},
+	{
+		"isoCurrencyCode": "SRD",
+		"isoCountryCode": "SR",
+		"flagEmoji": "🇸🇷",
+		"name": "Surinamese dollar",
+		"symbol": "$",
+		"nativeName": "Surinaamse dollar",
+		"exchangeRate": 31.805
+	},
+	{
+		"isoCurrencyCode": "STD",
+		"isoCountryCode": "ST",
+		"flagEmoji": "🇸🇹",
+		"name": "São Tomé and Príncipe dobra",
+		"symbol": "STD",
+		"nativeName": "Dobra",
+		"exchangeRate": 22823.990504
+	},
+	{
+		"isoCurrencyCode": "SZL",
+		"isoCountryCode": "SZ",
+		"flagEmoji": "🇸🇿",
+		"name": "Swazi lilangeni",
+		"symbol": "SZL",
+		"nativeName": "Lilangeni",
+		"exchangeRate": 17.13
+	},
+	{
+		"isoCurrencyCode": "THB",
+		"isoCountryCode": "TH",
+		"flagEmoji": "🇹🇭",
+		"name": "Thai baht",
+		"symbol": "฿",
+		"nativeName": "บาท",
+		"exchangeRate": 33.44
+	},
+	{
+		"isoCurrencyCode": "TJS",
+		"isoCountryCode": "TJ",
+		"flagEmoji": "🇹🇯",
+		"name": "Tajikistani somoni",
+		"symbol": "TJS",
+		"nativeName": "Сомонӣ",
+		"exchangeRate": 10.192525
+	},
+	{
+		"isoCurrencyCode": "TOP",
+		"isoCountryCode": "TO",
+		"flagEmoji": "🇹🇴",
+		"name": "Tongan paʻanga",
+		"symbol": "TOP",
+		"nativeName": "Paʻanga",
+		"exchangeRate": 2.353414
+	},
+	{
+		"isoCurrencyCode": "TRY",
+		"isoCountryCode": "TR",
+		"flagEmoji": "🇹🇷",
+		"name": "Turkish lira",
+		"symbol": "",
+		"nativeName": "Türk lirası",
+		"exchangeRate": 18.76728
+	},
+	{
+		"isoCurrencyCode": "TTD",
+		"isoCountryCode": "TT",
+		"flagEmoji": "🇹🇹",
+		"name": "Trinidad and Tobago dollar",
+		"symbol": "TT$",
+		"nativeName": "Trinidad and Tobago dollar",
+		"exchangeRate": 6.785723
+	},
+	{
+		"isoCurrencyCode": "TWD",
+		"isoCountryCode": "TW",
+		"flagEmoji": "🇹🇼",
+		"name": "New Taiwan dollar",
+		"symbol": "NT$",
+		"nativeName": "新台幣",
+		"exchangeRate": 30.459701
+	},
+	{
+		"isoCurrencyCode": "TZS",
+		"isoCountryCode": "TZ",
+		"flagEmoji": "🇹🇿",
+		"name": "Tanzanian shilling",
+		"symbol": "TSh",
+		"nativeName": "Shilingi ya Tanzania",
+		"exchangeRate": 2335
+	},
+	{
+		"isoCurrencyCode": "UAH",
+		"isoCountryCode": "UA",
+		"flagEmoji": "🇺🇦",
+		"name": "Ukrainian hryvnia",
+		"symbol": "₴",
+		"nativeName": "Гривня",
+		"exchangeRate": 36.743005
+	},
+	{
+		"isoCurrencyCode": "UGX",
+		"isoCountryCode": "UG",
+		"flagEmoji": "🇺🇬",
+		"name": "Ugandan shilling",
+		"symbol": "USh",
+		"nativeName": "Shilingi",
+		"exchangeRate": 3707.153315
+	},
+	{
+		"isoCurrencyCode": "USD",
+		"isoCountryCode": "AS",
+		"flagEmoji": "🇺🇸",
+		"name": "United States dollar",
+		"symbol": "$",
+		"nativeName": "United States dollar",
+		"exchangeRate": 1
+	},
+	{
+		"isoCurrencyCode": "UYU",
+		"isoCountryCode": "UY",
+		"flagEmoji": "🇺🇾",
+		"name": "Uruguayan peso",
+		"symbol": "$U",
+		"nativeName": "Peso uruguayo",
+		"exchangeRate": 39.886654
+	},
+	{
+		"isoCurrencyCode": "UZS",
+		"isoCountryCode": "UZ",
+		"flagEmoji": "🇺🇿",
+		"name": "Uzbekistan som",
+		"symbol": "лв",
+		"nativeName": "Soʻm",
+		"exchangeRate": 11305
+	},
+	{
+		"isoCurrencyCode": "VND",
+		"isoCountryCode": "VN",
+		"flagEmoji": "🇻🇳",
+		"name": "Vietnamese dong",
+		"symbol": "₫",
+		"nativeName": "Đồng",
+		"exchangeRate": 23460
+	},
+	{
+		"isoCurrencyCode": "VUV",
+		"isoCountryCode": "VU",
+		"flagEmoji": "🇻🇺",
+		"name": "Vanuatu vatu",
+		"symbol": "VUV",
+		"nativeName": "Vatu",
+		"exchangeRate": 118.044
+	},
+	{
+		"isoCurrencyCode": "WST",
+		"isoCountryCode": "WS",
+		"flagEmoji": "🇼🇸",
+		"name": "Samoan tala",
+		"symbol": "WST",
+		"nativeName": "Tālā",
+		"exchangeRate": 2.69755
+	},
+	{
+		"isoCurrencyCode": "XAF",
+		"isoCountryCode": "CM",
+		"flagEmoji": "🇨🇲",
+		"name": "CFA franc BEAC",
+		"symbol": "XAF",
+		"nativeName": "Franc CFA",
+		"exchangeRate": 610.164011
+	},
+	{
+		"isoCurrencyCode": "XCD",
+		"isoCountryCode": "AI",
+		"flagEmoji": "🇦🇮",
+		"name": "East Caribbean dollar",
+		"symbol": "$",
+		"nativeName": "East Caribbean dollar",
+		"exchangeRate": 2.70255
+	},
+	{
+		"isoCurrencyCode": "XOF",
+		"isoCountryCode": "BJ",
+		"flagEmoji": "🇧🇯",
+		"name": "CFA franc BCEAO",
+		"symbol": "XOF",
+		"nativeName": "Franc CFA",
+		"exchangeRate": 610.164011
+	},
+	{
+		"isoCurrencyCode": "XPF",
+		"isoCountryCode": "PF",
+		"flagEmoji": "🇵🇫",
+		"name": "CFP franc",
+		"symbol": "XPF",
+		"nativeName": "Franc CFP",
+		"exchangeRate": 111.001078
+	},
+	{
+		"isoCurrencyCode": "YER",
+		"isoCountryCode": "YE",
+		"flagEmoji": "🇾🇪",
+		"name": "Yemeni rial",
+		"symbol": "﷼",
+		"nativeName": "ريال يمني",
+		"exchangeRate": 250.3
+	},
+	{
+		"isoCurrencyCode": "ZAR",
+		"isoCountryCode": "ZA",
+		"flagEmoji": "🇿🇦",
+		"name": "South African rand",
+		"symbol": "R",
+		"nativeName": "Rand",
+		"exchangeRate": 16.904572
+	},
+	{
+		"isoCurrencyCode": "ZMW",
+		"isoCountryCode": "ZW",
+		"flagEmoji": "🇿🇲",
+		"name": "Zambian kwacha",
+		"symbol": "ZMW",
+		"nativeName": "Kwacha",
+		"exchangeRate": 18.290797
+	},
+	{
+		"isoCurrencyCode": "BHD",
+		"isoCountryCode": "BH",
+		"flagEmoji": "🇧🇭",
+		"name": "Bahraini dinar",
+		"symbol": "BHD",
+		"nativeName": "دينار بحريني",
+		"exchangeRate": 0.376937
+	},
+	{
+		"isoCurrencyCode": "BTC",
+		"isoCountryCode": "xx",
+		"flagEmoji": "🪙",
+		"name": "Bitcoin",
+		"symbol": "₿",
+		"nativeName": "Bitcoin",
+		"exchangeRate": 0.000057617527
+	},
+	{
+		"isoCurrencyCode": "BTN",
+		"isoCountryCode": "BT",
+		"flagEmoji": "🇧🇹",
+		"name": "Bhutanese ngultrum",
+		"symbol": "BTN",
+		"nativeName": "Ngultrum",
+		"exchangeRate": 82.356652
+	},
+	{
+		"isoCurrencyCode": "CLF",
+		"isoCountryCode": "CL",
+		"flagEmoji": "🇨🇱",
+		"name": "Unidad de Fomento (funds code)",
+		"symbol": "CLF",
+		"nativeName": "Unidad de Fomento",
+		"exchangeRate": 0.030336
+	},
+	{
+		"isoCurrencyCode": "CNH",
+		"isoCountryCode": "CH",
+		"flagEmoji": "🇨🇳",
+		"name": "Chinese Yuan",
+		"symbol": "¥",
+		"nativeName": "人民币",
+		"exchangeRate": 6.773517
+	},
+	{
+		"isoCurrencyCode": "CUC",
+		"isoCountryCode": "CU",
+		"flagEmoji": "🇨🇺",
+		"name": "Cuban convertible peso",
+		"symbol": "CUC",
+		"nativeName": "Peso convertible",
+		"exchangeRate": 1
+	},
+	{
+		"isoCurrencyCode": "CUP",
+		"isoCountryCode": "CU",
+		"flagEmoji": "🇨🇺",
+		"name": "Cuban peso",
+		"symbol": "₱",
+		"nativeName": "Peso cubano",
+		"exchangeRate": 25.75
+	},
+	{
+		"isoCurrencyCode": "ERN",
+		"isoCountryCode": "ER",
+		"flagEmoji": "🇪🇷",
+		"name": "Eritrean nakfa",
+		"symbol": "ERN",
+		"nativeName": "Nakfa",
+		"exchangeRate": 15
+	},
+	{
+		"isoCurrencyCode": "GGP",
+		"isoCountryCode": "GG",
+		"flagEmoji": "🇬🇬",
+		"name": "Guernsey Pound",
+		"symbol": "£",
+		"nativeName": "Guernsey Pound",
+		"exchangeRate": 0.820045
+	},
+	{
+		"isoCurrencyCode": "GHS",
+		"isoCountryCode": "GH",
+		"flagEmoji": "🇬🇭",
+		"name": "Ghanaian cedi",
+		"symbol": "GHS",
+		"nativeName": "Cedi",
+		"exchangeRate": 10.3
+	},
+	{
+		"isoCurrencyCode": "IMP",
+		"isoCountryCode": "IM",
+		"flagEmoji": "🇮🇲",
+		"name": "Manx pound",
+		"symbol": "£",
+		"nativeName": "Manx pound",
+		"exchangeRate": 0.820045
+	},
+	{
+		"isoCurrencyCode": "IQD",
+		"isoCountryCode": "IQ",
+		"flagEmoji": "🇮🇶",
+		"name": "Iraqi dinar",
+		"symbol": "IQD",
+		"nativeName": "دينار عراقي",
+		"exchangeRate": 1460.5
+	},
+	{
+		"isoCurrencyCode": "IRR",
+		"isoCountryCode": "IR",
+		"flagEmoji": "🇮🇷",
+		"name": "Iranian rial",
+		"symbol": "﷼",
+		"nativeName": "ریال ایرانی",
+		"exchangeRate": 41900
+	},
+	{
+		"isoCurrencyCode": "JEP",
+		"isoCountryCode": "JE",
+		"flagEmoji": "🇯🇪",
+		"name": "Jersey Pound",
+		"symbol": "£",
+		"nativeName": "Jersey Pound",
+		"exchangeRate": 0.820045
+	},
+	{
+		"isoCurrencyCode": "JOD",
+		"isoCountryCode": "JO",
+		"flagEmoji": "🇯🇴",
+		"name": "Jordanian dinar",
+		"symbol": "JOD",
+		"nativeName": "دينار أردني",
+		"exchangeRate": 0.7093
+	},
+	{
+		"isoCurrencyCode": "KPW",
+		"isoCountryCode": "KP",
+		"flagEmoji": "🇰🇵",
+		"name": "North Korean won",
+		"symbol": "₩",
+		"nativeName": "조선민주주의인민공화국 원",
+		"exchangeRate": 900
+	},
+	{
+		"isoCurrencyCode": "KWD",
+		"isoCountryCode": "KW",
+		"flagEmoji": "🇰🇼",
+		"name": "Kuwaiti dinar",
+		"symbol": "KWD",
+		"nativeName": "دينار كويتي",
+		"exchangeRate": 0.305958
+	},
+	{
+		"isoCurrencyCode": "LYD",
+		"isoCountryCode": "LY",
+		"flagEmoji": "🇱🇾",
+		"name": "Libyan dinar",
+		"symbol": "LYD",
+		"nativeName": "دينار ليبي",
+		"exchangeRate": 4.825
+	},
+	{
+		"isoCurrencyCode": "MRU",
+		"isoCountryCode": "MR",
+		"flagEmoji": "🇲🇷",
+		"name": "Mauritanian ouguiya",
+		"symbol": "UM",
+		"nativeName": "أوقية",
+		"exchangeRate": 36.35
+	},
+	{
+		"isoCurrencyCode": "OMR",
+		"isoCountryCode": "OM",
+		"flagEmoji": "🇴🇲",
+		"name": "Omani rial",
+		"symbol": "﷼",
+		"nativeName": "ريال عماني",
+		"exchangeRate": 0.385031
+	},
+	{
+		"isoCurrencyCode": "SDG",
+		"isoCountryCode": "SD",
+		"flagEmoji": "🇸🇩",
+		"name": "Sudanese pound",
+		"symbol": "SDG",
+		"nativeName": "جنيه سوداني",
+		"exchangeRate": 573.5
+	},
+	{
+		"isoCurrencyCode": "SSP",
+		"isoCountryCode": "SS",
+		"flagEmoji": "🇸🇸",
+		"name": "South Sudanese pound",
+		"symbol": "SSP",
+		"nativeName": "South Sudanese pound",
+		"exchangeRate": 130.26
+	},
+	{
+		"isoCurrencyCode": "STN",
+		"isoCountryCode": "ST",
+		"flagEmoji": "🇸🇹",
+		"name": "São Toméan Dobra",
+		"symbol": "Db",
+		"nativeName": "Dobra",
+		"exchangeRate": 23.375
+	},
+	{
+		"isoCurrencyCode": "SVC",
+		"isoCountryCode": "SV",
+		"flagEmoji": "🇸🇻",
+		"name": "Salvadoran Colón",
+		"symbol": "SVC",
+		"nativeName": "Colón",
+		"exchangeRate": 8.748134
+	},
+	{
+		"isoCurrencyCode": "SYP",
+		"isoCountryCode": "SY",
+		"flagEmoji": "🇸🇾",
+		"name": "Syrian pound",
+		"symbol": "£",
+		"nativeName": "ليرة سورية",
+		"exchangeRate": 2512.53
+	},
+	{
+		"isoCurrencyCode": "TMT",
+		"isoCountryCode": "TM",
+		"flagEmoji": "🇹🇲",
+		"name": "Turkmenistani manat",
+		"symbol": "TMT",
+		"nativeName": "Манат",
+		"exchangeRate": 3.5
+	},
+	{
+		"isoCurrencyCode": "TND",
+		"isoCountryCode": "TN",
+		"flagEmoji": "🇹🇳",
+		"name": "Tunisian dinar",
+		"symbol": "TND",
+		"nativeName": "دينار تونسي",
+		"exchangeRate": 3.125
+	},
+	{
+		"isoCurrencyCode": "VES",
+		"isoCountryCode": "VE",
+		"flagEmoji": "🇻🇪",
+		"name": "Venezuelan bolívar",
+		"symbol": "Bs",
+		"nativeName": "Bolívar",
+		"exchangeRate": 18.3717
+	},
+	{
+		"isoCurrencyCode": "ZWL",
+		"isoCountryCode": "ZW",
+		"flagEmoji": "🇿🇼",
+		"name": "Zimbabwean dollar",
+		"symbol": "Z$",
+		"nativeName": "Zimbabwean dollar",
+		"exchangeRate": 322
+	}
+]

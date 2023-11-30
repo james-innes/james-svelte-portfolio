@@ -1,0 +1,14 @@
+[
+	{ "lowerBound": 40, "upperBound": 60, "percentage": 0.6884681583476765 },
+	{ "lowerBound": 60, "upperBound": 80, "percentage": 4.3029259896729775 },
+	{ "lowerBound": 80, "upperBound": 100, "percentage": 16.69535283993115 },
+	{ "lowerBound": 100, "upperBound": 120, "percentage": 47.84853700516351 },
+	{ "lowerBound": 120, "upperBound": 140, "percentage": 100 },
+	{ "lowerBound": 140, "upperBound": 160, "percentage": 98.62306368330465 },
+	{ "lowerBound": 160, "upperBound": 180, "percentage": 39.41480206540447 },
+	{ "lowerBound": 180, "upperBound": 200, "percentage": 24.95697074010327 },
+	{ "lowerBound": 200, "upperBound": 220, "percentage": 32.53012048192771 },
+	{ "lowerBound": 220, "upperBound": 240, "percentage": 6.024096385542169 },
+	{ "lowerBound": 240, "upperBound": 260, "percentage": 14.285714285714285 },
+	{ "lowerBound": 260, "upperBound": 270, "percentage": 0.5163511187607573 }
+]

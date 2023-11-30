@@ -1,0 +1,20 @@
+.row {
+	display: flex;
+	flex-flow: row wrap;
+	gap: 0.5rem;
+	align-items: center;
+}
+
+.col {
+	display: flex;
+	flex-flow: column nowrap;
+	gap: 1rem;
+}
+
+.row.spread {
+	column-gap: 1.5rem;
+}
+
+.col.spread {
+	row-gap: 1.5rem;
+}

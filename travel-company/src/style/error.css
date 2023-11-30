@@ -1,0 +1,11 @@
+:disabled,
+.disabled {
+	cursor: not-allowed !important;
+	opacity: 0.3;
+}
+
+.error {
+	border-color: orange !important;
+	border-style: solid;
+	border-width: var(--thick);
+}

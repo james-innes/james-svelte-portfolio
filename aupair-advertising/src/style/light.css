@@ -1,0 +1,37 @@
+:root {
+	--thick: 1px;
+	--radius: 0.6rem;
+
+	--background: white;
+	--opaque: 255, 255, 255;
+	--image-shadow: 0 7px 15px rgba(0, 0, 0, 0.2);
+
+	color: var(--text);
+	--text: #222222;
+	--label: #4f5458;
+	--subtext: #717171;
+	--placeholder: #a9a9a9;
+	--grey: #ebebeb;
+
+	--anchor: var(--text);
+	--anchor-highlight: black;
+
+	--input-border: #dadce0;
+	--input-background: white;
+	--input-highlight: var(--text);
+
+	--control-text: var(--text);
+	--control-text-highlight: black;
+	--control-background: white;
+	--control-background-highlight: #f7f7f7;
+	--control-height: 2.3rem;
+
+	--bold-text: #8c245c;
+	--bold-background: #fce2f0;
+	--pink: #ea4c89;
+
+	--gold: #ceaf83;
+	--green: #29b57f;
+	--amber: #fbcc3f;
+	--red: #e74e4e;
+}

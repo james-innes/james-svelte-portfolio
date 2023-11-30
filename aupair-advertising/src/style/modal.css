@@ -1,0 +1,46 @@
+dialog[open] {
+	max-width: 90%;
+	min-width: 15rem;
+	width: fit-content;
+	height: fit-content;
+	max-height: 90svh;
+	padding: 1rem 1.5rem 1.5rem;
+	overflow: auto;
+	border: none;
+	border-radius: var(--radius);
+	animation: enter 0.3s ease;
+	background: var(--background);
+	border: var(--thick) solid var(--grey);
+}
+
+@media only screen and (min-width: 58rem) {
+	:modal {
+		padding: 2rem 2.5rem 2.5rem;
+	}
+}
+
+dialog::backdrop {
+	background: rgba(34, 34, 34, 0.4);
+	animation: appear 0.3s ease;
+}
+
+@keyframes appear {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+@keyframes enter {
+	from {
+		opacity: 0;
+		transform: translateY(3rem);
+	}
+
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}

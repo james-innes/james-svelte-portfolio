@@ -1,0 +1,68 @@
+*:not([class*="mapboxgl-ctrl"]) {
+	outline: none;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background: var(--background);
+	border-radius: 0;
+	-webkit-tap-highlight-color: transparent;
+	overflow-wrap: break-word;
+	-webkit-tap-primary-focus-color: transparent;
+}
+
+input:not([type="checkbox"]),
+select,
+textarea {
+	width: 100%;
+}
+
+button,
+input {
+	font-size: 100%;
+	line-height: 1.15;
+}
+
+input,
+select,
+textarea {
+	font: inherit;
+}
+
+b {
+	font-weight: 600;
+	font-size: inherit;
+}
+
+::-moz-focus-inner {
+	border-style: none;
+	padding: 0;
+}
+
+:-moz-ui-invalid {
+	box-shadow: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	appearance: none;
+	margin: 0;
+}
+
+video::-webkit-media-controls-panel {
+	background-image: none !important;
+	filter: invert(1);
+}
+
+img {
+	clip-path: inset(1px);
+}
+
+input[type="number"] {
+	appearance: textfield;
+}

@@ -1,0 +1,91 @@
+input[type="checkbox"],
+input[type="radio"] {
+	z-index: 100;
+	position: relative;
+	height: 1.25rem;
+	width: 1.25rem;
+	margin-right: 0.4rem;
+	padding: 0;
+	vertical-align: middle;
+	cursor: pointer;
+	border-radius: 0.3rem;
+}
+
+input[type="checkbox"]::after {
+	content: "";
+	box-sizing: border-box;
+	opacity: 0;
+	position: absolute;
+	width: 0.3rem;
+	height: 0.75rem;
+	border: 2px solid var(--background);
+	border-top: 0;
+	border-left: 0;
+	left: 0.4rem;
+	top: 0.1rem;
+	transform: rotate(35deg);
+}
+
+input[type="checkbox"]:checked::after {
+	opacity: 1;
+}
+
+input[type="checkbox"]:checked,
+input[type="radio"]:checked {
+	border-color: var(--control-text-highlight);
+	background: var(--control-text-highlight);
+	color: var(--background);
+}
+
+/* rounded style */
+
+.rounded {
+	display: flex;
+	gap: 0.5rem;
+	align-items: center;
+	place-content: center;
+	cursor: pointer;
+	height: var(--control-height);
+	width: fit-content;
+	padding: 0 0.7rem;
+	border-radius: var(--radius);
+	border: 1px solid var(--grey);
+	cursor: pointer;
+}
+
+input:where([type="checkbox"], [type="radio"]):has(+ .rounded) {
+	display: none;
+}
+
+input:where([type="checkbox"], [type="radio"]) + .rounded {
+	color: var(--control-text);
+	border-width: var(--thick);
+	border-color: var(--grey);
+	padding: 0 0.8rem;
+	border-radius: 2rem;
+}
+
+input:where([type="checkbox"], [type="radio"]):hover + .rounded {
+	border-color: var(--input-highlight);
+}
+
+input:where([type="checkbox"], [type="radio"]):checked + .rounded {
+	border-color: var(--control-text-highlight);
+	border-width: var(--thick);
+}
+
+/* Group */
+
+.checkboxes {
+	display: flex;
+	flex-flow: column wrap;
+	row-gap: 0.5rem;
+	column-gap: 1rem;
+	overflow-x: auto;
+}
+
+.checkboxes label {
+	flex-direction: row;
+	align-items: center;
+	row-gap: 1rem;
+}

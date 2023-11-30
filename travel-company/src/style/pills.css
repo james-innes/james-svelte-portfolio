@@ -1,0 +1,21 @@
+.pills > div,
+.pill {
+	display: flex;
+	gap: 0.5rem;
+	align-items: center;
+	place-content: center;
+	text-decoration: none !important;
+	height: 2rem;
+	width: fit-content;
+	padding: 0 0.5rem;
+	border-radius: var(--radius);
+	font-weight: 400;
+	background: var(--background);
+	border: 1px solid var(--grey);
+	color: var(--text);
+}
+
+.pills > a:active {
+	color: var(--control-text-highlight);
+	background: var(--control-background-highlight);
+}

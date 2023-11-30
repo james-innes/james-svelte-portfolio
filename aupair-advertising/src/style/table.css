@@ -1,0 +1,28 @@
+table {
+	display: block;
+	overflow-x: auto;
+	overflow-y: hidden;
+	border-collapse: collapse;
+	text-indent: 0;
+	border-color: inherit;
+	text-align: left;
+	column-gap: 1rem;
+}
+
+table th {
+	font-weight: 550;
+	color: var(--label);
+}
+
+table td,
+table th {
+	padding: 0.4rem 0.5rem;
+}
+
+table tr:not(:first-child) {
+	border-top: 1px solid var(--grey);
+}
+
+table * {
+	margin: 0 !important;
+}

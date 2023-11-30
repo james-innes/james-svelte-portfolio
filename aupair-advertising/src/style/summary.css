@@ -1,0 +1,42 @@
+summary {
+	touch-action: manipulation;
+	cursor: pointer;
+	font-weight: 500;
+	width: 100%;
+	padding: 1rem 0;
+	border-bottom: var(--thick) solid var(--grey);
+	transition: margin 150ms ease-out;
+	list-style: none;
+}
+
+summary::after {
+	float: right;
+	font-family: "Font Awesome 5 Pro";
+	font-weight: 900;
+	content: "\f054";
+}
+
+details[open] summary::after {
+	transform: rotate(90deg);
+}
+
+summary::-webkit-details-marker {
+	display: none;
+}
+
+summary:hover {
+	color: var(--anchor-highlight);
+}
+
+details {
+	width: 100%;
+}
+
+details[open] {
+	margin-bottom: 1rem;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid var(--grey);
+}
+details[open] > :first-child {
+	margin-bottom: 1rem;
+}

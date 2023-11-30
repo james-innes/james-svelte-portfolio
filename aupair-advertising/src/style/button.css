@@ -1,0 +1,60 @@
+button,
+[type="button"] {
+	display: flex;
+	gap: 0.5rem;
+	align-items: center;
+	place-content: center;
+	text-decoration: none !important;
+	height: var(--control-height);
+	width: fit-content;
+	padding: 0.7rem;
+	border-radius: var(--radius);
+	touch-action: manipulation;
+	cursor: pointer;
+	color: var(--control-text);
+	font-weight: 450;
+	background: var(--control-background);
+	border: none;
+}
+
+:where(button:enabled, [type="button"]):active {
+	transform: scale(0.9);
+	transition: transform 0.3s ease;
+}
+
+@media (hover: hover) {	
+	:where(button:enabled, [type="button"]):not(#google-pay button):not(.error):not(
+		[class*="mapboxgl-ctrl"]
+		):hover {
+			color: var(--control-text-highlight);
+			background: var(--control-background-highlight);
+		}
+}
+
+:where(button:enabled, [type="button"]):not(#google-pay button):not(.error):not(
+	[class*="mapboxgl-ctrl"]
+	):active {
+		color: var(--control-text-highlight);
+		background: var(--control-background-highlight);
+	}
+
+/* Icon */
+
+.icon {
+	border-radius: 50%;
+	width: var(--control-height);
+}
+
+/* Bold */
+
+.bold {
+	background: var(--bold-background);
+	color: var(--bold-text);
+	padding: 0 0.8rem;
+	font-weight: 500;
+}
+
+:where(button:enabled, [type="button"]):not(.error).bold:hover {
+	color: white !important;
+	background: var(--pink) !important;
+}

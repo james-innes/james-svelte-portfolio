@@ -1,0 +1,33 @@
+.frame {
+	border: 1px solid var(--grey);
+	border-radius: var(--radius);
+	padding: 1rem;
+	width: fit-content;
+}
+
+.fade-right {
+	mask-image: linear-gradient(
+		to left,
+		rgba(225, 225, 225, 0),
+		var(--background) 1.5rem
+	);
+}
+
+.fade-bottom {
+	mask-image: linear-gradient(
+		to top,
+		rgba(225, 225, 225, 0),
+		var(--background) 2rem
+	);
+}
+
+.message {
+	display: flex;
+	place-items: center;
+	justify-content: center;
+	text-align: center;
+	gap: 0.5rem;
+	font-weight: 450;
+	padding: 0.5rem;
+	color: var(--subtext);
+}
